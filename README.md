@@ -6,7 +6,7 @@
 
 [1 = 3](https://github.com/Oscar-Y/fun/blob/master/number2letters.py) - Find out how many letters are in a word for any number
 
-[PermutationSearher](https://github.com/Oscar-Y/fun/blob/master/permutationsearch.py) - Find a list of all possible permutations for a series of numbers
+[PermutationSearcher](https://github.com/Oscar-Y/fun/blob/master/permutationsearch.py) - Find a list of all possible permutations for a series of numbers
 
 [SundayCounter](https://github.com/Oscar-Y/fun/blob/master/number2letters.py) - Counts the number of times a Sunday falls on the first of the month between two exact dates
 
