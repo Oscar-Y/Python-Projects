@@ -14,4 +14,4 @@
 You need Python 2.7 or later to run all these projects.
 
 ### Authors
-* **Oscar Yu** - *All work* - [Oscar-Y](https://github.com/Oscar-Y)
+* **Oscar Yu** - *All projects* [(Oscar-Y)](https://github.com/Oscar-Y)
