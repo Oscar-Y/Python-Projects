@@ -11,7 +11,7 @@
 [SundayCounter](https://github.com/Oscar-Y/fun/blob/master/number2letters.py) - Counts the number of times a Sunday falls on the first of the month between two exact dates
 
 ### Requirements
-You need Python 2.7 or later to run all these projects.
+You need Python Version 2 to run all these projects.
 
 ### Authors
 * **Oscar Yu** - *All projects* [(Oscar-Y)](https://github.com/Oscar-Y)
